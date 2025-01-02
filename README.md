@@ -1,5 +1,3 @@
-Here’s the README translated into English:
-
 🗂 Learning Record Wiki Repository
 
 This repository is created to systematically document and share all records from personal learning and project progress. It includes daily coding work, retrospectives, reviews, and learning materials, aiming to track growth and maximize learning efficiency.
