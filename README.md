@@ -4,11 +4,15 @@ This repository is created to systematically document and share all records from
 
 ## 📚 Folder Structure  
 
-- **`file_name/`**  
-  lorem 
+- **`missions/`**  
+  This folder contains the missions completed each week, organized by week.
 
-- **`file_name2/`**  
-  hh
+- **`Records/`**  
+  This folder contains daily reviews and retrospectives. It also includes files with short records of morning scrum meetings.
+
+- **`Practice/`**  
+  This folder is for individual practice and review sessions conducted at home after work. 
+
 
 
 ## 🛠 How to Use  
