@@ -1,0 +1,34 @@
+
+==================================================
+New Execution at 2025-January-08-15-15-38
+==================================================
+
+2025-Jan-08 15:15:38 - INFO - ETL Process Started
+2025-Jan-08 15:15:39 - INFO - Saving Extracted Data
+2025-Jan-08 15:15:39 - INFO - Data saved: CSV (extracted_gdp_data.csv), JSON (extracted_gdp_data.json)
+2025-Jan-08 15:15:39 - INFO - Starting Data Transformation
+2025-Jan-08 15:15:39 - INFO - Data Transformation Completed
+2025-Jan-08 15:15:39 - INFO - Saving Extracted Data
+2025-Jan-08 15:15:39 - INFO - Data saved: CSV (transformed_gdp_data.csv), JSON (transformed_gdp_data.json)
+2025-Jan-08 15:15:39 - INFO - Loading data into SQLite database
+2025-Jan-08 15:15:39 - INFO - Data successfully loaded into SQLite database
+2025-Jan-08 15:15:39 - INFO - Displaying countries with GDP over 100B USD
+2025-Jan-08 15:15:39 - INFO - Calculating average GDP of top 5 countries by region
+2025-Jan-08 15:15:39 - INFO - ETL Process Completed Successfully
+
+==================================================
+New Execution at 2025-January-08-15-15-43
+==================================================
+
+2025-Jan-08 15:15:43 - INFO - ETL Process Started
+2025-Jan-08 15:15:44 - INFO - Saving Extracted Data
+2025-Jan-08 15:15:44 - INFO - Data saved: CSV (extracted_gdp_data.csv), JSON (extracted_gdp_data.json)
+2025-Jan-08 15:15:44 - INFO - Starting Data Transformation
+2025-Jan-08 15:15:44 - INFO - Data Transformation Completed
+2025-Jan-08 15:15:44 - INFO - Saving Extracted Data
+2025-Jan-08 15:15:44 - INFO - Data saved: CSV (transformed_gdp_data.csv), JSON (transformed_gdp_data.json)
+2025-Jan-08 15:15:44 - INFO - Loading data into SQLite database
+2025-Jan-08 15:15:44 - INFO - Data successfully loaded into SQLite database
+2025-Jan-08 15:15:44 - INFO - Displaying countries with GDP over 100B USD
+2025-Jan-08 15:15:44 - INFO - Calculating average GDP of top 5 countries by region
+2025-Jan-08 15:15:44 - INFO - ETL Process Completed Successfully
