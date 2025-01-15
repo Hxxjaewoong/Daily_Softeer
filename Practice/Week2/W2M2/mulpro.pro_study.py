@@ -50,4 +50,26 @@
 
 
 
+# from multiprocessing import Process
 
+# def print_continent(name="아시아"):
+#     print(f"대륙의 이름은: {name}")
+
+# if __name__ == "__main__":
+#     # 기본 프로세스
+#     default_process = Process(target=print_continent)
+#     default_process.start()
+#     print(f"Default Process PID: {default_process.pid}")
+
+#     # 추가 프로세스 생성
+#     continents = ["아메리카", "유럽", "아프리카"]
+#     processes = [Process(target=print_continent, args=(continent,)) for continent in continents]
+
+#     for process in processes:
+#         process.start()
+#         print(f"Started Process PID: {process.pid}")
+
+#     # 모든 프로세스가 완료되기를 기다림
+#     default_process.join()
+#     for process in processes:
+#         process.join()
