@@ -2,3 +2,8 @@
 
 # Daily_Softeer 폴더 하위의 모든 .pem 파일 무시
 *.pem
+
+
+Missions/Week2/W2M5/sentiment140/training.1600000.processed.noemoticon.csv
+Practice/Week2/W2M5/sentiment140/training.1600000.processed.noemoticon.csv
+Records/Week2/records_template.ipynb
