@@ -7,3 +7,10 @@
 Missions/Week2/W2M5/sentiment140/training.1600000.processed.noemoticon.csv
 Practice/Week2/W2M5/sentiment140/training.1600000.processed.noemoticon.csv
 Records/Week2/records_template.ipynb
+Missions/Week1/.DS_Store
+Missions/Week1/W1M3/extracted_gdp_data.csv
+Missions/Week1/W1M3/extracted_gdp_data.json
+Missions/Week1/W1M3/raw_gdp_data.csv
+Missions/Week1/W1M3/transformed_gdp_data.csv
+Missions/Week1/W1M3/transformed_gdp_data.json
+Missions/Week1/W1M3/World_Economies.db
