@@ -15,3 +15,5 @@ Missions/Week1/W1M3/transformed_gdp_data.csv
 Missions/Week1/W1M3/transformed_gdp_data.json
 Missions/Week1/W1M3/World_Economies.db
 Records/Week3/records_template.ipynb
+Missions/Week3/W3M1/single-node-cluster/hadoop-3.3.6.tar.gz
+Missions/Week3/W3M2a/multi-node-cluster/hadoop-3.3.6.tar.gz
