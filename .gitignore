@@ -1,4 +1,4 @@
-.DS_Store
+*.DS_Store
 
 # Daily_Softeer 폴더 하위의 모든 .pem 파일 무시
 *.pem
